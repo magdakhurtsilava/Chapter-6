@@ -1,6 +1,6 @@
 users = ['val', 'bob', 'mia', 'ron', 'ned'] 
 first_user = users [0]
-second_user=users[1]
+second_user=us
 newest_user=users[1]
 users[0]='valerine'
 users[-2]='ronald'
